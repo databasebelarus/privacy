@@ -1,1 +1,71 @@
+Privacy Policy for [Your History Web]
+Last updated: [date]
+. Overview
+This browser extension collects and stores browsing history data solely for the purpose of displaying it to the user within the extension interface. All data is processed and stored locally on the user’s device.
 
+The extension does not transmit, share, upload, or send any data to external servers or third parties.
+
+2. Data Collected
+The extension collects only the following data:
+
+Browsing History
+Visited URLs
+
+Page titles
+
+Timestamps of visits
+
+No other categories of data are collected.
+
+3. How Data Is Used
+Collected data is used exclusively to:
+
+Display browsing history to the user
+
+Provide the extension’s core functionality
+
+The extension does not analyze, modify, or interact with the content of visited websites.
+
+4. Data Storage
+All collected data is stored locally in the user’s browser using IndexedDB.
+
+No data is:
+
+uploaded
+
+transmitted
+
+synchronized
+
+shared with third parties
+
+5. Data Sharing
+The extension does not share any data with:
+
+external servers
+
+third parties
+
+advertisers
+
+analytics services
+
+6. Permissions
+The extension uses the following permissions strictly for functional purposes:
+
+tabs — to read URLs of open tabs
+
+webNavigation — to detect page loads
+
+storage / IndexedDB — to store data locally
+
+host permissions — to access visited URLs only
+
+The extension does not modify website content.
+
+7. User Control
+Users may delete their locally stored browsing history at any time by clearing the extension’s data or resetting the browser’s storage.
+
+8. Contact
+If you have any questions about this Privacy Policy, you may contact the developer at:
+[xpycti4ek@gmail.com]
